@@ -8,6 +8,6 @@ Estimate of time needed to complete: 90 minutes
 
 Start time: 10:15
 
-Finish time: _____
+Finish time: 11:00
 
-Actual time needed to complete: _____
+Actual time needed to complete: 45 minutes
